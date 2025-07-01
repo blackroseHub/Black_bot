@@ -1,0 +1,33 @@
+# Core LLM & LangChain
+openai
+langchain
+langchain-openai
+langchain-community
+
+# Vector Store
+chromadb
+
+# PDF & Unstructured data loading
+unstructured[pdf]
+pymupdf
+pdfminer.six
+python-docx
+
+# Utility
+python-dotenv
+tiktoken
+requests
+aiofiles
+Pillow
+numpy
+safehttpx
+
+# Gradio UI
+gradio
+gradio-client
+
+# Ollama for local LLMs
+ollama
+
+# Extra (optional for pretty CLI/debug)
+rich
