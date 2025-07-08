@@ -66,7 +66,7 @@ source chatbot-env/bin/activate
 ### 2. Clone the Repo
 
 ```bash
-git clone https://github.com/blackroseHub/Black-bot.git
+git clone https://github.com/blackroseHub/Black_bot.git
 cd black-bot
 ```
 
